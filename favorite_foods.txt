@@ -5,3 +5,5 @@ Tacos
 Ice Cream
 Pasta
 Salad
+Chocolate
+French Fries
