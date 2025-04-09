@@ -1,3 +1,7 @@
 Pizza
 Burrito
 Sushi
+Tacos
+Ice Cream
+Pasta
+Salad
