@@ -4,4 +4,3 @@ Sushi
 Tacos
 Ice Cream
 Pasta
-Salad
