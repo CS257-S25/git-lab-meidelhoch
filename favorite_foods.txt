@@ -1,0 +1,9 @@
+Pizza
+Burrito
+Sushi
+Tacos
+Ice Cream
+Pasta
+Salad
+Chocolate
+French Fries
